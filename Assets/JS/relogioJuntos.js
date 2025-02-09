@@ -1,5 +1,5 @@
 function updateClock() {
-    const startTime = new Date('2023-08-09T10:00:00');
+    const startTime = new Date('2022-08-09T10:00:00');
     const currentTime = new Date();
     const timeDiff = currentTime - startTime;
 
